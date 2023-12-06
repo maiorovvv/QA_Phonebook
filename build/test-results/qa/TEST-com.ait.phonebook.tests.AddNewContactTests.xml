@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ait.phonebook.tests.AddNewContactTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-30T09:00:06" hostname="XMG" time="3.024">
+  <properties/>
+  <testcase name="addNewContactPositiveTest" classname="com.ait.phonebook.tests.AddNewContactTests" time="3.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
